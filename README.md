@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Bhavesh<br>👨‍🎓Currently pursuing BTECH in Computer Science from VIT University<br>🌱 I’m currently learning Web development and looking forward to collaborate in projects.<br>💡I'm eager to learn new technologies<br>📫reach me: bhaveshreddy2004@gmail.com
+👋 Hi, I'm Bhavesh<br>👨‍🎓Currently pursuing BTECH in Computer Science from VIT University<br>🌱 I’m currently learning Web development and Machine Learning,looking forward to collaborate in projects.<br>💡I'm eager to learn new technologies<br>📫reach me: bhaveshreddy2004@gmail.com
 
 
 ## 🌐 Socials:
