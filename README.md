@@ -19,4 +19,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Resume 
+https://drive.google.com/file/d/1oC4QF7KRW2euLrNe29SaNfjjuHKepBBa/view?usp=sharing
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
